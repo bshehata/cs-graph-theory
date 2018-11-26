@@ -12,7 +12,7 @@ Nodes: [Node]
 }
 ```
 Node Spec
-Edge waitings default to 1 in unweighted graph. 
+Edge waitings default to 1 in unweighted graph. Names are arbitrary should default to alphabet when unspecified
 ```
 Node : {
 A: 10,
